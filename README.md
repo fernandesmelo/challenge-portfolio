@@ -3,11 +3,7 @@
 Meu [Portfólio]( https://fernandesmelo.github.io/challenge-portfolio/), desenvolvido através do challenge do Programa One - Oracle Next Education.
 Esse projeto é um site de portfólio pessoal, que apresenta informações sobre minha jornada profissional, habilidades, hobbies, cursos e projetos, além de incluir um formulário de contato com validação.
 
-
-
-
-
-
+[screen-capture (1).webm](https://github.com/fernandesmelo/challenge-portfolio/assets/113717317/683bf7ba-97b4-414c-8381-eb381f68763b)
 
 ## 📝 Sobre o Desafio - Descrição
 ### *Requisitos*
