@@ -58,14 +58,13 @@ A página deve conter um botão que permita visualizar, em uma nova aba, uma ver
 - `Funcionalidade 7`: Após o envio bem-sucedido, os campos do formulário são limpos.
 
 ## 🚀 Começando
+Essas instruções permitirão que você tenha uma cópia do projeto em execução na sua máquina local para desenvolvimento e testes.
+
+### 📋 Pré-requisitos
 
 Antes de começar, certifique-se de ter instalado em seu sistema operacional:
 * [Navegador Web](https://www.google.com/chrome/) para visualizar o projeto localmente.
 * [Visual Studio Code](https://code.visualstudio.com/) para acessar e editar os códigos.
-
-### 📋 Pré-requisitos
-
-Você precisa ter instalado  no seu sistema operacional um navegador web para visualizar o projeto localmente e o VSCode para ter acesso aos códigos. 
 
 ### 🔧 Instalação
 
