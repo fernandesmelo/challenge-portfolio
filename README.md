@@ -59,7 +59,9 @@ A página deve conter um botão que permita visualizar, em uma nova aba, uma ver
 
 ## 🚀 Começando
 
-Essas instruções permitirão que você tenha uma cópia do projeto em execução na sua máquina local para desenvolvimento e testes.
+Antes de começar, certifique-se de ter instalado em seu sistema operacional:
+* [Navegador Web](https://www.google.com/chrome/) para visualizar o projeto localmente.
+* [Visual Studio Code](https://code.visualstudio.com/) para acessar e editar os códigos.
 
 ### 📋 Pré-requisitos
 
